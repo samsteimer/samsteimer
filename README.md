@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sam Steiimer</h1>
 <h3 align="center">Software Developer | Coach | Life Long Learner</h3>
 
-- 🔭 I’m currently working on **Movie Recommendation App**
+- 🔭 I’m currently working on **Family Calendar App**
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
 - 📫 How to reach me **samsteimer@gmail.com**
 

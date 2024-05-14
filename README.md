@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sam Steimer</h1>
+<h1 align="center">Hi, I'm Sam Steimer</h1>
 <h3 align="center">Software Developer | Coach | Life Long Learner</h3>
 
 - 🔭 I’m currently working on **Family Calendar App**

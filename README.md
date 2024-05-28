@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sam Steimer</h1>
 <h3 align="center">Software Developer | Coach | Life Long Learner</h3>
 
-- 🔭 I’m currently working on **Family Calendar App**
+- 🔭 I’m currently working on **Flag Football Manager App**
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
